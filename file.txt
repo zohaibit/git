@@ -1,0 +1,4 @@
+Git Introduction
+Git is a version Control System
+Git is a Local Repository
+Git hum is a collection of multiple local repositories and it is a remote repository
